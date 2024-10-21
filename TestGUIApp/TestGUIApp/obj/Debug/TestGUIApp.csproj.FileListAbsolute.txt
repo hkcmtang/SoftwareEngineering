@@ -1,0 +1,11 @@
+C:\Development\TestGUIApp\TestGUIApp\bin\Debug\TestGUIApp.exe.config
+C:\Development\TestGUIApp\TestGUIApp\bin\Debug\TestGUIApp.exe
+C:\Development\TestGUIApp\TestGUIApp\bin\Debug\TestGUIApp.pdb
+C:\Development\TestGUIApp\TestGUIApp\obj\Debug\TestGUIApp.csproj.AssemblyReference.cache
+C:\Development\TestGUIApp\TestGUIApp\obj\Debug\TestGUIApp.Form1.resources
+C:\Development\TestGUIApp\TestGUIApp\obj\Debug\TestGUIApp.Properties.Resources.resources
+C:\Development\TestGUIApp\TestGUIApp\obj\Debug\TestGUIApp.csproj.GenerateResource.cache
+C:\Development\TestGUIApp\TestGUIApp\obj\Debug\TestGUIApp.csproj.CoreCompileInputs.cache
+C:\Development\TestGUIApp\TestGUIApp\obj\Debug\TestGUIApp.exe
+C:\Development\TestGUIApp\TestGUIApp\obj\Debug\TestGUIApp.pdb
+C:\Development\TestGUIApp\TestGUIApp\obj\Debug\TestGUIApp.fmAdd.resources
